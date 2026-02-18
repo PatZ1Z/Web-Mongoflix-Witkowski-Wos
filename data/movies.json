@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Titanic",
+    "year": 1997,
+    "genres": ["Dramat", "Romans"],
+    "type": "Premium",
+    "views": 1500000,
+    "director": "James Cameron",
+    "actors": ["Leonardo DiCaprio", "Kate Winslet"],
+    "reviews": [
+      { "user": "anna", "rating": 9, "comment": "Bardzo wzruszający film." },
+      { "user": "marek", "rating": 8, "comment": "Klasyka kina." }
+    ]
+  },
+
+  {
+  "id": 2,
+  "title": "Avatar",
+  "year": 2009,
+  "genres": ["Sci-Fi", "Akcja"],
+  "type": "Premium",
+  "views": 2000000,
+  "director": "James Cameron",
+  "actors": ["Sam Worthington", "Zoe Saldana"],
+  "reviews": [
+    { "user": "kasia", "rating": 8, "comment": "Świetne efekty." },
+    { "user": "basia", "rating": 7, "comment": "Ładny ten niebieski stworek" }
+  ]
+  },
+
+  {
+    "id": 3,
+    "title": "Matrix",
+    "year": 1999,
+    "genres": ["Sci-Fi", "Akcja"],
+    "type": "Premium",
+    "views": 1800000,
+    "director": "Wachowski",
+    "actors": ["Keanu Reeves", "Laurence Fishburne"],
+    "reviews": [
+      {"user": "piotr", "rating": 9, "comment": "Ponadczasowy."},
+      {"user": "paweł", "rating": 9, "comment": "Ja bym wybrał niebieską."}
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Shrek",
+    "year": 2001,
+    "genres": ["Animacja", "Komedia"],
+    "type": "Public",
+    "views": 2200000,
+    "director": "Andrew Adamson",
+    "actors": ["Mike Myers", "Eddie Murphy"],
+    "reviews": [
+      { "user": "ola", "rating": 9, "comment": "Bardzo śmieszny." }
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": ["Dramat", "Komedia"],
+    "type": "Public",
+    "views": 1400000,
+    "director": "Robert Zemeckis",
+    "actors": ["Tom Hanks", "Robin Wright"],
+    "reviews": [
+      { "user": "karol", "rating": 10, "comment": "Piękna historia." },
+      { "user": "marcin", "rating": 10, "comment": "Też bym chał móc tyle biegać." },
+      { "user": "bergman", "rating": 10, "comment": "Shit happens- uwielbiam ten cytat z fimlu." }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": ["Akcja", "Dramat"],
+    "type": "Premium",
+    "views": 1300000,
+    "director": "Ridley Scott",
+    "actors": ["Russell Crowe", "Joaquin Phoenix"],
+    "reviews": [
+      { "user": "adam", "rating": 9, "comment": "Epicki film." }
+    ]
+  },
+
+  {
+    "id": 7,
+    "title": "Joker",
+    "year": 2019,
+    "genres": ["Dramat", "Kryminalny"],
+    "type": "Premium",
+    "views": 1250000,
+    "director": "Todd Phillips",
+    "actors": ["Joaquin Phoenix"],
+    "reviews": [
+      { "user": "łukasz", "rating": 8, "comment": "Mroczny i ciekawy." }
+    ]
+  },
+
+  {
+    "id": 8,
+    "title": "The Lion King",
+    "year": 1994,
+    "genres": ["Animacja", "Dramat"],
+    "type": "Public",
+    "views": 2400000,
+    "director": "Roger Allers",
+    "actors": ["Matthew Broderick"],
+    "reviews": [
+      { "user": "monika", "rating": 9, "comment": "Klasyk Disneya." }
+    ]
+  },
+
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Fantasy", "Przygodowy"],
+    "type": "Premium",
+    "views": 2600000,
+    "director": "Peter Jackson",
+    "actors": ["Elijah Wood", "Ian McKellen"],
+    "reviews": [
+      { "user": "bartek", "rating": 10, "comment": "Arcydzieło fantasy." },
+      { "user": "antek", "rating": 10, "comment": "Fajny ten topór krasnala." }
+    ]
+  },
+
+  {
+    "id": 10,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genres": ["Akcja", "Sci-Fi"],
+    "type": "Premium",
+    "views": 3000000,
+    "director": "Anthony Russo",
+    "actors": ["Robert Downey Jr.", "Chris Evans"],
+    "reviews": [
+      { "user": "nina", "rating": 9, "comment": "Świetne zakończenie serii." },
+      { "user": "krzysiek", "rating": 9, "comment": "Nigdy nie obejrzałem, ale skomentuje, że fajne." }
+    ]
+  },
+
+  {
+    "id": 11,
+    "title": "Spider-Man",
+    "year": 2002,
+    "genres": ["Akcja", "Superhero"],
+    "type": "Public",
+    "views": 1900000,
+    "director": "Sam Raimi",
+    "actors": ["Tobey Maguire", "Kirsten Dunst"],
+    "reviews": [
+      { "user": "pawel", "rating": 8, "comment": "Klasyczny Spider-Man." },
+      { "user": "gawel", "rating": 8, "comment": "Czemu sieci mu lecą z nadgarstków, a nie jak u prawdziwych pająków?." }
+    ]
+  },
+
+  {
+    "id": 12,
+    "title": "Frozen",
+    "year": 2013,
+    "genres": ["Animacja", "Familijny"],
+    "type": "Public",
+    "views": 2000000,
+    "director": "Chris Buck",
+    "actors": ["Kristen Bell", "Idina Menzel"],
+    "reviews": [
+      { "user": "zosia", "rating": 8, "comment": "Super piosenki." },
+      { "user": "julian", "rating": 8, "comment": "Olaf to bałwan."}
+    ]
+  }
+]
