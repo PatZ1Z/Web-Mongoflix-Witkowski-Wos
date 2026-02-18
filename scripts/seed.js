@@ -7,7 +7,7 @@ print("--- Inicjalizacja bazy danych Mongoflix ---")
 const fs = require("fs")
 const path = require("path")
 
-const filePath = path.join(__dirname, "../data/test.json")
+const filePath = path.join(__dirname, "../data/movies.json")
 
 const fileContent = fs.readFileSync(filePath, "utf8")
 const data = JSON.parse(fileContent)
