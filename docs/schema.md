@@ -10,8 +10,9 @@
 | actors     | Array[String]    | ["Leonardo DiCaprio"]     | Lista aktorów |
 | reviews    | Array[Object]    | [{...}]                   | Lista opinii użytkowników |
 
-| Pole      | Typ danych | Przykład              | Opis |
-|----------|-----------|-----------------------|------|
-| user     | String    | "anna"                | Nazwa użytkownika |
-| rating   | Number    | 9                     | Ocena (1–10) |
-| comment  | String    | "Świetny film"        | Treść opinii |
+## Review
+| Pole  | Typ danych | Przykład              | Opis |
+|-------|-----------|-----------------------|------|
+| user  | String    | "anna"                | Nazwa użytkownika |
+| rating | Number    | 9                     | Ocena (1–10) |
+| comment | String    | "Świetny film"        | Treść opinii |
