@@ -27,6 +27,7 @@ let wynik1 = db.movies.aggregate([
 ]).toArray()
 print(wynik1);
 
+
 // Zapytanie drugie, średnia ocena filmów po roku
 
     let wynik2 = db.movies.aggregate([
