@@ -1,3 +1,27 @@
+Środowisko skryptu: WebStorm
+
+Instrukcja uruchomienia:
+
+1. W terminalu należy wpisać: mongosh scripts/seed.js
+        Wyświetla się informacja zwrotna o poprawnym działąniu skryptu 
+2. Odświerzyć bazę danych w MongoDB Compass
+        Dane w bazie danych zostają uaktualnione
+3. Analiza poprzez wpisanie do terminala: mongosh queries/analysis.mongodb.js
+        Zawracane zostają wszytkie wyniki zapytań 
+4. I to tyle
+   
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 🎬 Mongoflix - Projekt Warstwy Danych
 
